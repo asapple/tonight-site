@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Started with Jekyll"
-date:   2025-08-29 10:00:00 +0800
+date:   2025-08-28 10:00:00 +0800
 categories: jekyll tutorial
 ---
 

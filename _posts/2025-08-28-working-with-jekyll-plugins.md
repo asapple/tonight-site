@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working with Jekyll Plugins"
-date:   2025-08-31 09:15:00 +0800
+date:   2025-08-28 09:15:00 +0800
 categories: jekyll plugins
 ---
 

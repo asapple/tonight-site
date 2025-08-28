@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating Custom Layouts in Jekyll"
-date:   2025-08-30 14:30:00 +0800
+date:   2025-08-28 14:30:00 +0800
 categories: jekyll design
 ---
 
