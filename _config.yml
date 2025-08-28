@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tonight`s Blogs
-email: your-email@example.com
+email: cwj2023@bupt.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   I'm tonight, undergraduate and postgraduate from Beijing University of Posts and Telecommunications, majoring in Computer Science and Technology. I've interned at Alibaba Cloud Serverless Infrastructure team and Meituan Customer Service Routing team. Here I share content related to AI Agentic Coding and cloud computing. Contact email: cwj2023@bupt.edu.cn 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
-repository: jekyll/jekyll # This is needed for the Hacker theme
+github_username:  asapple
+repository: asapple/tonight-site # This is needed for the Hacker theme
 
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
